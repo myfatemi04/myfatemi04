@@ -1,18 +1,8 @@
----
-title: Michael Fatemi
-date: '07/07/2021'
-spoiler: Student and Developer
-categories: ['student', 'programming', 'development', 'entrepreneurship']
-github: 'myfatemi04'
----
-
 ## Hi, I'm Michael
 
-<em>
-* Student at the Thomas Jefferson High School for Science and Technology
-* Developer
-* <a href="https://michaelfatemi.com/">Check out my website for more!</a>
-</em>
+- Student at the Thomas Jefferson High School for Science and Technology
+- Developer
+- [Check out my website for more!](https://michaelfatemi.com/)
 
 [![LinkedIn: @michaelfatemi](https://img.shields.io/badge/-michaelfatemi-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/michaelfatemi/)](https://www.linkedin.com/in/michaelfatemi/)
 

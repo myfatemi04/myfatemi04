@@ -34,4 +34,8 @@ const MichaelFatemi = {
 
 ## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfatemi04&hide=issues&show_icons=true&count_private=true)
 
+### What I'm Working On Right Now
+
+[![WheelShare](https://github-readme-stats.vercel.app/api/pin/?username=myfatemi04&repo=wheelshare-frontend)](https://github.com/myfatemi04/wheelshare-frontend)
+
 ⭐️ Check out my GitHub projects below:

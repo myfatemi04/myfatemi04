@@ -25,15 +25,10 @@ Michael Fatemi
 const MichaelFatemi = {
   pronouns: "he" | "him",
   school: "Thomas Jefferson High School for Science and Technology",
-  code: [Javascript, HTML, CSS, C++, C, Python, Java, Dart],
-  tools: [React, Tailwind, Flutter, Node, Django, SQL, MongoDB, Android Studio, Electron, React Native],
+  code: [Javascript, Typescript, Python, Rust, Go, C++],
+  tools: [React, Node, React Native, SQL, MongoDB, Android Studio],
 }
 ```
-
-<em>
-	<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
-	:)
-</em>
 
 ---
 

@@ -1,6 +1,7 @@
 ## Hi, I'm Michael
 
-- Student at the Thomas Jefferson High School for Science and Technology
+- University of Virginia CS
+- Thomas Jefferson High School for Science and Technology Class of 2022
 - Developer
 - [Check out my website for more!](https://michaelfatemi.com/)
 

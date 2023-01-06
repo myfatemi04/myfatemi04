@@ -1,8 +1,7 @@
 ## Hi, I'm Michael
 
-- University of Virginia CS
-- Thomas Jefferson High School for Science and Technology Class of 2022
-- Developer
+- University of Virginia CS 2026
+- TJHSST CS 2022
 - [Check out my website for more!](https://michaelfatemi.com/)
 
 [![LinkedIn: @michaelfatemi](https://img.shields.io/badge/-michaelfatemi-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/michaelfatemi/)](https://www.linkedin.com/in/michaelfatemi/)
@@ -10,9 +9,9 @@
 ```javascript
 const MichaelFatemi = {
   pronouns: "he" | "him",
-  school: "Thomas Jefferson High School for Science and Technology",
-  code: [Javascript, Typescript, Python, Rust, Go, C++],
-  tools: [React, Node, React Native, SQL, MongoDB, Android Studio],
+  school: "University of Virginia",
+  languages: [Python, C++, Javascript, Typescript, Rust, Go],
+  tools: [PyTorch, React, Node, SQL, MongoDB],
 }
 ```
 
@@ -22,6 +21,6 @@ const MichaelFatemi = {
 
 ### What I'm Working On Right Now
 
-[![WheelShare](https://github-readme-stats.vercel.app/api/pin/?username=myfatemi04&repo=wheelshare-frontend)](https://github.com/myfatemi04/wheelshare-frontend)
+[AugmateAI](https://augmateai.michaelfatemi.com/)
 
 ⭐️ Check out my GitHub projects below:

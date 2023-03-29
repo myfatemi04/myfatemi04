@@ -8,10 +8,10 @@
 
 ```javascript
 const MichaelFatemi = {
-  pronouns: "he" | "him",
   school: "University of Virginia",
   languages: [Python, C++, Javascript, Typescript, Rust, Go],
-  tools: [PyTorch, React, Node, SQL, MongoDB],
+  tools: [PyTorch, OpenCV, React, Node, SQL, MongoDB],
+  interests: [AI, Applied Math, Robotics, Biotech]
 }
 ```
 

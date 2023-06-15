@@ -17,7 +17,7 @@ const MichaelFatemi = {
 
 ---
 
-## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfatemi04&hide=issues&show_icons=true&count_private=true)
+<!-- ## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfatemi04&hide=issues&show_icons=true&count_private=true) -->
 
 ### What I'm Working On Right Now
 

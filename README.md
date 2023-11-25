@@ -8,10 +8,10 @@
 
 ```javascript
 const MichaelFatemi = {
-  school: "University of Virginia",
-  languages: [Python, C++, Javascript, Typescript, Rust, Go],
-  tools: [PyTorch, OpenCV, React, Node, SQL, MongoDB],
-  interests: [AI, Applied Math, Robotics, Biotech]
+  school: 'University of Virginia',
+  languages: ['Python', 'C++', 'Javascript', 'Typescript', 'Rust', 'Go'],
+  tools: ['PyTorch', 'OpenCV', 'React', 'Node', 'SQL', 'MongoDB'],
+  interests: ['AI', 'Applied Math', 'Robotics', 'BioTech'],
 }
 ```
 

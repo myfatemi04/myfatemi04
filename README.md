@@ -19,8 +19,5 @@ const MichaelFatemi = {
 
 <!-- ## ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfatemi04&hide=issues&show_icons=true&count_private=true) -->
 
-### What I'm Working On Right Now
-
-[AugmateAI](https://augmateai.michaelfatemi.com/)
-
-⭐️ Check out my GitHub projects below:
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/myfatemi04/myfatemi04/main/pattern.png');]{x0000}$}
